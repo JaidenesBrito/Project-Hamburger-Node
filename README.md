@@ -1,4 +1,4 @@
-<h1>Project-Hamburgueria</h1>
+<h1>Project-Hamburger</h1>
 
 Desafio Node - 1
 🚀 Sobre o desafio
